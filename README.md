@@ -1,3 +1,6 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/bkqta2igb817idnn?svg=true)](https://ci.appveyor.com/project/AlexWEBArt/ra-time-highlight)
+https://alexwebart.github.io/ra-time-highlight/
+
 Форматирование даты публикации
 ===
 
